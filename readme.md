@@ -2,8 +2,8 @@
 
 Aqui você encontra alguns repositórios de cursos que fiz, e alguns projetos pessoais.
 
-:woman_technologist: [LinkedIn](https://www.linkedin.com/in/melissatvsantana/)
+[![LinkedIn](https://img.shields.io/badge/-Meus_networks_sérios-black?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/melissatvsantana/)](https://www.linkedin.com/in/melissatvsantana/)
 
-:woman_technologist: [StackOverflow](https://pt.stackoverflow.com/users/111325/melissa)
+[![Stackoverflow](https://img.shields.io/badge/-Minhas_perguntas_bobinhas-black?style=flat&logo=stackoverflow&logoColor=white&labelColor=FE7A16&link=https://pt.stackoverflow.com/users/111325/melissa/)](https://pt.stackoverflow.com/users/111325/melissa/)
 
-:woman: [Telegram](https://telegram.me/melissatvs)
+[![Telegram](https://img.shields.io/badge/-Conversa_comigo_no_melhor_papeador_eletrônico-black?style=flat&logo=telegram&logoColor=white&labelColor=white&link=https://telegram.me/melissatvs/)](https://telegram.me/melissatvs/)
