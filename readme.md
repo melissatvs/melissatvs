@@ -2,11 +2,9 @@
 
 Aqui você encontra alguns repositórios de cursos que fiz, e alguns projetos pessoais.
 
-## Repositórios
+## Visão Geral
 
-![Stats](https://github-readme-stats.vercel.app/api?username=melissatvs&theme=graywhite&show_icons=true&count_private=true&hide_title=true&hide_border=true)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melissatvs&layout=compact&hide_title=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=melissatvs&theme=graywhite&show_icons=true&count_private=true&hide_title=true&hide_border=true) ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melissatvs&layout=compact&hide_title=true&hide_border=true)
 
 ## Social
 
