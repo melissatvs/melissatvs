@@ -2,10 +2,6 @@
 
 Aqui você encontra alguns repositórios de cursos que fiz, e alguns projetos pessoais.
 
-## Visão Geral
-
-![Stats](https://github-readme-stats.vercel.app/api?username=melissatvs&theme=graywhite&show_icons=true&count_private=true&hide_title=true&hide_border=true) ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melissatvs&layout=compact&hide_title=true&hide_border=true)
-
 ## Social
 
 [![LinkedIn](https://img.shields.io/badge/-Meus_networks_sérios-black?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&link=https://www.linkedin.com/in/melissatvsantana/)](https://www.linkedin.com/in/melissatvsantana/)
